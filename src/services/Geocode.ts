@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API_KEY = 'AIzaSyCFsUJxsW8zxO4q8WUOXuxVkOCnxqoI5gs'
+const API_KEY = [GOOGLE_KEY]
 
 class Geocode {
 
