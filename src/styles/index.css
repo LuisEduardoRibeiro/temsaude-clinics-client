@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-required {
+    border-bottom: 2px solid rgba(248, 113, 113, 0.3) !important;
+}
